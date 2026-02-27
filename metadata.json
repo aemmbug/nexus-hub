@@ -1,0 +1,9 @@
+{
+  "name": "Nexus Hub",
+  "description": "Adaptive cross-platform hub for standard chat and collaborative live sessions with AI facilitation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
