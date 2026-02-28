@@ -18,9 +18,11 @@
 
 ## 🚀 Live Demo & Deployment
 
-A live version of this application can be hosted on platforms like Vercel, Netlify, or Firebase Hosting.
+A live version of this application can be hosted on platforms Firebase Hosting.
 
-**Hosting URL**: `[Your-Hosting-URL-Here]`
+**Hosting URL**: `[https://nexus-hub-b1543.web.app/]`
+
+**Demo Account**: demo@gmail.com | Demo123@Nexus
 
 ## 🛠️ Technical Architecture
 
